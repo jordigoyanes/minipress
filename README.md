@@ -1,13 +1,13 @@
 # Minipress
 
-> Minimalistic beautiful blog template using resusable modular Vue components and a Vuex store. It uses BootStrap4 CSS + Custom CSS. All Vue, no jQuery.
+Minimalistic beautiful blog template using resusable modular Vue components and a Vuex store. It uses BootStrap4 CSS + Custom CSS. All Vue, no jQuery.
 
 [Live Demo](https://minipress.netlify.com)
 
 <img align="middle" src="https://i.imgur.com/9EEfsnM.png" border="0">  
 
 ### FEATURES:  
-* Image/post carousel slider vue component by [hooper](https://github.com/baianat/hooper)
+* Image/post carousel slider vue component using [hooper](https://github.com/baianat/hooper)
 * Vue-router menu navigation
 * Dropdown menu made with Vue
 * Vuex store to handle global state variables
